@@ -1,2 +1,0 @@
-# BrowserGamesTest
-Testing browser games
